@@ -1,96 +1,43 @@
 ### Olá, eu sou a Leonor👋
-<img src="images/svg/header_en.svg"></img>
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
-</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## More about me
+* Nationality: portuguese
+* Age: 21 years 
+* From: Coimbra, Portugal
+* Socials:
+	+ [![](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0a0carll21@gmail.com)](mailto:j0a0carll21@gmail.com)
+	+ [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pingucas21)
+	+ [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/j0a0_s1lva/)
+	+ [![](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJh5RKXC3ZrCeYVkv-x4zSQ) ![](https://img.shields.io/youtube/channel/views/UCJh5RKXC3ZrCeYVkv-x4zSQ?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCJh5RKXC3ZrCeYVkv-x4zSQ?style=social)
+* IDE/Code editors:
+	+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+	+ ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+	+ ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+* OS: 
+	+ ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+	+ ![](https://img.shields.io/badge/Linux_(Virtual_Machine)-FCC624?style=flat&logo=linux&logoColor=black)
 
-<div> 
-  <a href = "mailto:leonorcolaco19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonor-reiss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## Skills in (or experiences with):  
+#### Programming Languages:
+###### Back-end:
+![](https://img.shields.io/badge/ASM-MIPS-333333) ![](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=5459E2) ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6) ![](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120) ![](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=FFFFFF) ![](https://img.shields.io/badge/M-MatLab-333333) ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA) ![](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=00ADD8) ![](https://img.shields.io/badge/PostgresSQL-333333?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Visual_Basic-333333?style=flat&logo=VisualStudio&logoColor=8332E1) ![](https://img.shields.io/badge/ASM-LLVM-333333) ![](https://img.shields.io/badge/L-Lex-333333) ![](https://img.shields.io/badge/Y-Yacc-333333) 
 
-<details>
-  <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
-  <br/>
+###### Front-end:
+ ![](https://img.shields.io/badge/CSS-333333?style=flat&logo=css3&logoColor=1FC4D7) ![](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=E67925) ![](https://img.shields.io/badge/Javascript-333333?style=flat&logo=javascript&logoColor=EED221)
+ 
+ ###### Others:
+![](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=217AEE) ![](https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown&logoColor=white)
 
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![JSF](https://img.shields.io/badge/JSF-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
-![Primefaces](https://img.shields.io/badge/PRIMEFACES-039BE5.svg?&style=flat&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
-![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;\
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
-![GetX](https://img.shields.io/badge/GETX-%23121011.svg?&style=flat&logo=getx&logoColor=white) &nbsp;
-![BLoC](https://img.shields.io/badge/BLOC-%23121011.svg?&style=flat&logo=bloc&logoColor=white) &nbsp;
-![MobX](https://img.shields.io/badge/MOBX-%23121011.svg?&style=flat&logo=mobx&logoColor=white) &nbsp;
-![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Ansible](https://img.shields.io/badge/ANSIBLE-%231A1918.svg?&style=flat&logo=ansible&logoColor=white)&nbsp;
-![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;\
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)\
-![Ant](https://img.shields.io/badge/ANT-A81C7D.svg?&style=flat&logo=apache-ant)&nbsp;
-![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
-![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
-![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
-![Hexagonal Architecture](https://img.shields.io/badge/HEXAGONAL-2496ED.svg?&style=flat&logoColor=white)&nbsp;
-![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
-![DDD](https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white)&nbsp;
-![PMBOK](https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+<br>
+<a href="https://github.com/joaosilva21">
+  	<p align="center">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva21&theme=dracula" />
+	</p>
+</a>
 
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
-Flutter, GetX, BLoC, MobX.
-GitHub, GitLab, Docker, Ansible
-Kotlin, Firebase.
-Ant, Maven, Gradle, 
-VSCode, Eclipse, IntelliJ IDEA.
-HTML, CSS, JavaScript, TypeScript.
-postgresql, pgadmin, mysql, sqlite.
-TDD, BDD, DDD
-clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
-linux
--->
-</details>
+#### Frameworks:
+![](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=009900) ![](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/OpengGL-333333?style=flat&logo=opengl&logoColor=4568BA) ![](https://img.shields.io/badge/PY-Psycopg2-333333) ![](https://img.shields.io/badge/React_Native-333333?style=flat&logo=react&logoColor=4EC6DE) ![](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=spring-boot) ![]()
 
-<!-- 
-jquery, sass
-nestjs, nodejs, redis, nginx,
-rest, graphql, grpc
-apache kafka,
-google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
-Kubernates, puppet, github actions
-python, c, cpp, arduino
-php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
--->
+#### Others:
+![](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=39AAE2) ![](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=E28239) ![](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/GitKraken-333333?style=flat&logo=gitkraken&logoColor=6EB233) ![](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab&logoColor=white) ![](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=EF9928) 
+
