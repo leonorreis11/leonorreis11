@@ -36,7 +36,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=217AEE) ![](https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown&logoColor=white)
 
 ###### Frameworks:
-![](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=009900) ![](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/OpengGL-333333?style=flat&logo=opengl&logoColor=4568BA) ![](https://img.shields.io/badge/PY-Psycopg2-333333) ![](https://img.shields.io/badge/React_Native-333333?style=flat&logo=react&logoColor=4EC6DE) ![](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=spring-boot) ![]()
+![](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=009900) ![](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/OpengGL-333333?style=flat&logo=opengl&logoColor=4568BA) 
 
 ###### Others:
 ![](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=39AAE2) ![](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=E28239) ![](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/GitKraken-333333?style=flat&logo=gitkraken&logoColor=6EB233) ![](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab&logoColor=white) ![](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=EF9928) 
