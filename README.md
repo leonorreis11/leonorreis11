@@ -18,19 +18,13 @@ me = ComputerScienceStudent()
 me.say_hi()
 ```
 
-#### Open to collaborate or integrate interesting projects🚀
+### Open to collaborate or integrate interesting projects🚀
 <div> 
   <a href = "mailto:leonorcolaco19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonor-reiss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
-## More about me
-* Socials:
-	+ [![](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0a0carll21@gmail.com)](mailto:j0a0carll21@gmail.com)
-	+ [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pingucas21)
-	+ [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/j0a0_s1lva/)
-	+ [![](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJh5RKXC3ZrCeYVkv-x4zSQ) ![](https://img.shields.io/youtube/channel/views/UCJh5RKXC3ZrCeYVkv-x4zSQ?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCJh5RKXC3ZrCeYVkv-x4zSQ?style=social)
 * IDE/Code editors:
 	+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 	+ ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
@@ -39,7 +33,7 @@ me.say_hi()
 	+ ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 	+ ![](https://img.shields.io/badge/Linux_(Virtual_Machine)-FCC624?style=flat&logo=linux&logoColor=black)
 
-#### Tech Skills
+### Tech Skills
 ###### Back-end:
 [](https://img.shields.io/badge/ASM-MIPS-333333) [](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=5459E2) ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6) ![](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120) ![](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=FFFFFF) ![](https://img.shields.io/badge/M-MatLab-333333) ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA) ![](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=00ADD8) ![](https://img.shields.io/badge/PostgresSQL-333333?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Visual_Basic-333333?style=flat&logo=VisualStudio&logoColor=8332E1) ![](https://img.shields.io/badge/ASM-LLVM-333333) ![](https://img.shields.io/badge/L-Lex-333333) ![](https://img.shields.io/badge/Y-Yacc-333333) 
 
