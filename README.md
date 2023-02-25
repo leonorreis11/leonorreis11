@@ -32,20 +32,18 @@ me.say_hi()
 ###### Front-end:
  ![](https://img.shields.io/badge/CSS-333333?style=flat&logo=css3&logoColor=1FC4D7) ![](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=E67925) ![](https://img.shields.io/badge/Javascript-333333?style=flat&logo=javascript&logoColor=EED221)
  
- ###### Other languages:
+###### Other languages:
 ![](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=217AEE) ![](https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown&logoColor=white)
 
-#### Frameworks:
+###### Frameworks:
 ![](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=009900) ![](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/OpengGL-333333?style=flat&logo=opengl&logoColor=4568BA) ![](https://img.shields.io/badge/PY-Psycopg2-333333) ![](https://img.shields.io/badge/React_Native-333333?style=flat&logo=react&logoColor=4EC6DE) ![](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=spring-boot) ![]()
 
-#### Others:
+###### Others:
 ![](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=39AAE2) ![](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=E28239) ![](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/GitKraken-333333?style=flat&logo=gitkraken&logoColor=6EB233) ![](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab&logoColor=white) ![](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=EF9928) 
 
-#### Most used IDEs:
-	+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-	+ ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
-	+ ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-####  OS: 
+###### Most used IDEs:
+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+###### OS: 
 	![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 	![](https://img.shields.io/badge/Linux_(Virtual_Machine)-FCC624?style=flat&logo=linux&logoColor=black)
 	 
