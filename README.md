@@ -26,9 +26,6 @@ me.say_hi()
 </div>
 
 ## More about me
-* Nationality: portuguese
-* Age: 21 years 
-* From: Coimbra, Portugal
 * Socials:
 	+ [![](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0a0carll21@gmail.com)](mailto:j0a0carll21@gmail.com)
 	+ [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pingucas21)
@@ -44,7 +41,7 @@ me.say_hi()
 
 #### Tech Skills
 ###### Back-end:
-![](https://img.shields.io/badge/ASM-MIPS-333333) !(https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=5459E2) ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6) ![](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120) ![](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=FFFFFF) ![](https://img.shields.io/badge/M-MatLab-333333) ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA) ![](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=00ADD8) ![](https://img.shields.io/badge/PostgresSQL-333333?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Visual_Basic-333333?style=flat&logo=VisualStudio&logoColor=8332E1) ![](https://img.shields.io/badge/ASM-LLVM-333333) ![](https://img.shields.io/badge/L-Lex-333333) ![](https://img.shields.io/badge/Y-Yacc-333333) 
+[](https://img.shields.io/badge/ASM-MIPS-333333) [](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=5459E2) ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6) ![](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120) ![](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=FFFFFF) ![](https://img.shields.io/badge/M-MatLab-333333) ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA) ![](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=00ADD8) ![](https://img.shields.io/badge/PostgresSQL-333333?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Visual_Basic-333333?style=flat&logo=VisualStudio&logoColor=8332E1) ![](https://img.shields.io/badge/ASM-LLVM-333333) ![](https://img.shields.io/badge/L-Lex-333333) ![](https://img.shields.io/badge/Y-Yacc-333333) 
 
 ###### Front-end:
  ![](https://img.shields.io/badge/CSS-333333?style=flat&logo=css3&logoColor=1FC4D7) ![](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=E67925) ![](https://img.shields.io/badge/Javascript-333333?style=flat&logo=javascript&logoColor=EED221)
