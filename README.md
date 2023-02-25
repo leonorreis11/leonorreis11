@@ -3,7 +3,7 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-class SoftwareEngineer:
+class ComputerScienceStudent:
 
     def __init__(self):
         self.name = "Leonor Reis"
@@ -14,7 +14,7 @@ class SoftwareEngineer:
         print("I hope you find some of my work interesting and I'm open for feedback and suggestions.")
 
 
-me = SoftwareEngineer()
+me = ComputerScienceStudent()
 me.say_hi()
 ```
 
