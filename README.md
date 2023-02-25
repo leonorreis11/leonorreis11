@@ -11,7 +11,7 @@ class ComputerScienceStudent:
         self.language_spoken = ["pt_PT", "en_US", "es_ES"]
 
     def say_hi(self):
-        print("I hope you find some of my work interesting and I'm open for feedback and suggestions.")
+        print("I hope you find some of my work interesting and feel free to leave some feedback or suggestion.")
 
 
 me = ComputerScienceStudent()
