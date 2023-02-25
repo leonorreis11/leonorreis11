@@ -18,7 +18,7 @@ me = ComputerScienceStudent()
 me.say_hi()
 ```
 
-### Open to collaborate or integrate interesting projects🚀
+#### Open to collaborate or integrate interesting projects🚀
 <div> 
   <a href = "mailto:leonorcolaco19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonor-reiss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -44,8 +44,7 @@ me.say_hi()
 ###### Most used IDEs:
  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ###### OS: 
-	![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-	![](https://img.shields.io/badge/Linux_(Virtual_Machine)-FCC624?style=flat&logo=linux&logoColor=black)
+ ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux_(Virtual_Machine)-FCC624?style=flat&logo=linux&logoColor=black)
 	 
 
 
