@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ...
 
 ![Leonor's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonorreis11&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonorreis11)](https://github.com/leonorreis11/github-readme-stats)
