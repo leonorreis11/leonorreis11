@@ -46,7 +46,7 @@ me.say_hi()
 ###### OS: 
  ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux_(Virtual_Machine)-FCC624?style=flat&logo=linux&logoColor=black)
  
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=leonorreis11&repo=leonorreis11&theme=react)](https://github.com/leonorreis11/leonorreis11)
+ ![Snake animation](https://github.com/leonorreis11/leonorreis11/blob/output/github-contribution-grid-snake.svg)
 	 
 
 
