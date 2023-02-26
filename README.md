@@ -45,6 +45,8 @@ me.say_hi()
  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ###### OS: 
  ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux_(Virtual_Machine)-FCC624?style=flat&logo=linux&logoColor=black)
+ 
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
 	 
 
 
